@@ -74,3 +74,17 @@ This is the service that will be given to customers. In this customers can searc
 Describe how the system should perform for example;  Performance, security, scalability, usability, reliability.
 * Hotel Management Service
 This is the service that will be given to hotel managers/owners. In this managers can manage their hotel's related information. Here managers have a separate portal to access the data and update it.
+
+
+# Use Case Diagrams
+
+## What Use Case Diagrams are 
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+## The Benefits of use case diagrams
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+"C:\Users\Administrator\Downloads\alx-booking-uc.png"
+
+
