@@ -18,3 +18,16 @@ It is usually a technical process and a team effort where stakeholders and softw
 Why is this important?
 
 Because getting this phase right means avoiding costly mistakes later on. If the foundation is weak or misaligned, everything built on it can crumble.
+
+
+#Why is Requirement Analysis Important?
+
+Requirement Analysis is a critical SDLC phase where stakeholder needs for a hotel booking system are gathered, analyzed, and documented to define what the system does and how it performs. It ensures a shared understanding among customers, hotel managers, and developers, forming the foundation for development.
+
+##why Requirement Analysis is critical in the SDLC.
+
+Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
+Basis for Design and Development: Provides a solid foundation for designing and developing the system.
+Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
+Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
