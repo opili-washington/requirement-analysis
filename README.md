@@ -87,4 +87,24 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Facilitate communication among stakeholders and development team.
 
 
+# Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders
+
+##  Importance of Acceptance Criteria in Requirement Analysis.
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
+
+## Example of acceptance criteria for a feature like the Checkout feature in the booking management system.
+
+The Checkout feature, part of the Booking Service in the hotel booking system, allows Registered Users to finalize their bookings with payment. Below is an example of acceptance criteria:
+
+The Checkout process must allow users to review their selected hotel, dates, and total cost before payment.
+Payment must be processed successfully within 5 seconds using a third-party service (e.g., Stripe) for 99% of transactions.
+A confirmation email with booking details (hotel name, dates, payment status) must be sent to the user within 2 minutes of successful payment.
+The system must display an error message and rollback the booking if the payment fails, with a recovery time of less than 10 seconds.
+The Checkout page must be responsive on all devices (Chrome, Safari, iOS 15+, Android 11+) and load in under 2 seconds.
+
+These criteria ensure the Checkout feature is functional, reliable, and user-friendly, aligning with the case study’s emphasis on the Booking Service’s integration with payment systems and performance requirements.
+
 
